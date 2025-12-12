@@ -41,3 +41,4 @@ This work is philosophically aligned with the Eternal Moment Hypothesis, which f
 Author
 Guy Montrose
 Earth, 21st century
+- **Gods-of-Infinity-AI-Summary.md** — non-substitutive AI-directed summary of the book’s core philosophy
